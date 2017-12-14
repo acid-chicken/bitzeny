@@ -38,10 +38,11 @@ It is as sharp as **Katana**.
 * Exchange listing
 	* ~~C-CEX~~
     * ~~Novaexchange~~
+    *CryptoBridge
 	* Tradesatoshi >> Vote now
     * Yo-bit
-    * coinexchange
-    * cryptopia
+    * CoinExchange
+    * Cryptopia
     * Bleutrade
     * Bittrex
     * Poloniex
